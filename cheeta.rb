@@ -1,4 +1,4 @@
- ```Ruby
+ ```ruby
 
 CHEETAH_GIRLS = [
   "Raven-Symone",
